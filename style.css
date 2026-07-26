@@ -1,12 +1,40 @@
 ﻿body{
-    font-family: Arial, sans-serif;
+    font-family: Tahoma, Verdana, sans-serif;
 max - width:800px;
-margin: 50px auto;
+margin: 20px auto;
 padding: 20px;
+text-align: center;
+
 background:#121212;
     color: white;
+
 }
 
 h1{
+    font-family: Arial, sans-serif;
+    padding: 30px;
+    text-align: center;
+    background:#191919;
     color:#7c5cff;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    
+    text-shadow: 5px 2px 5px pink;
+
+    /*text-decoration: underline overline;
+    text-decoration-style: double;
+    text-decoration-color: #9999FF;
+    text-decoration-thickness: 2px;
+    text-decoration: underline overline double #9999FF 2px;*/
+}
+
+p1{
+font-family: Tahoma, Verdana, sans-serif;
+max - width:800px;
+text-align: center;
+line-height: 30px;
+
+
+background:#121212;
+    color: white;
 }
