@@ -5,6 +5,7 @@ margin: 20px auto;
 padding: 20px;
 text-align: center;
 
+
 background:#121212;
     color: white;
 
@@ -37,4 +38,12 @@ line-height: 30px;
 
 background:#121212;
     color: white;
+}
+
+.gif-temp{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 80vh;
+
 }
